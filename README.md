@@ -292,7 +292,7 @@ GET /v1/public/jobs/{companySlug}/{jobSlug}
 - **404 Not Found:** Job or company not found
 - **410 Gone:** Job has been filled or removed
 
-### 5.5 Request & Response Schema
+### 5.5 Request & Response Schema - @DL Please update this acc to backend structure and current Lucres API.
 
 ```json
 {
